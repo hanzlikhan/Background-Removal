@@ -10,11 +10,13 @@ A Streamlit application that allows users to upload images and automatically det
 - **Visual Display:** Presents images with bounding boxes using Matplotlib for clear visualization.
 
 ## How It Works
-
+ ![Ui image](Ui.jpg)
 1. **Upload Image:** User uploads an image.
-2. **Preprocess Image:** Image is preprocessed to the required format.
-3. **Make Prediction:** Model predicts bounding boxes and labels for objects.
-4. **Display Results:** Image with bounding boxes is displayed along with predicted probabilities.
+2.  ![Input Image](input.jpg)
+3. **Preprocess Image:** Image is preprocessed to the required format.
+4. **Make Prediction:** Model predicts bounding boxes and labels for objects.
+5.  ![output](output.jpg)
+6. **Display Results:** Image with bounding boxes is displayed along with predicted probabilities.
 
 ## Installation
 
